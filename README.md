@@ -37,4 +37,12 @@ Projeto do Desafio de dados da [Alura](https://www.alura.com.br) #alura
 
 # Resumos:
 ## Semana 1 💾
-Em Andamento
+Essa Semana foi o tratamento da Base de dados que apresentavas 3 campos (anuncio, imagens, usuarios),contudo apenas ANUNCIO é necessária para o desafio.
+
+O tratamento foi bem completo, mesmo que ainda falte algumas parte, como  tratar os dados nulos e em brancos, isso possivelmente vai ser resolvido na semana 2
+
+OBS: AINDA FALTA O SALVAR OS DADOS EM PARQUET farei mas não vou por no git até a conclusão da Semana 2
+
+## Semana 2 🐍
+
+# EM ANDAMENTO
