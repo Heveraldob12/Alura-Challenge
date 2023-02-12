@@ -41,7 +41,7 @@ Essa Semana foi o tratamento da Base de dados que apresentavas 3 campos (anuncio
 
 O tratamento foi bem completo, mesmo que ainda falte algumas parte, como  tratar os dados nulos e em brancos, isso possivelmente vai ser resolvido na semana 2
 
-OBS: AINDA FALTA O SALVAR OS DADOS EM PARQUET farei mas não vou por no git até a conclusão da Semana 2
+OBS: AINDA FALTA O SALVAR OS DADOS EM PARQUET farei isso logo, mas não vou por no github até a conclusão da Semana 2
 
 ## Semana 2 🐍
 
